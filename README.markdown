@@ -12,3 +12,9 @@ The CLCabs Management System is a server-based application designed to streamlin
 - **Real-Time Tracking**: Monitor cab locations and booking statuses.
 - **Payment Integration**: Handle payments securely (if applicable).
 - **Admin Dashboard**: Centralized interface for managing all operations.
+## Screenshots
+
+![alt text](https://github.com/vidushankalj/clcabs-management-system/blob/master/screenshots/Screenshot%202025-08-19%20143715.png)
+![alt text](https://github.com/vidushankalj/clcabs-management-system/blob/master/screenshots/Screenshot%202025-08-19%20143802.png)
+![alt text](https://github.com/vidushankalj/clcabs-management-system/blob/master/screenshots/Screenshot%202025-08-19%20143836.png)
+![alt text](https://github.com/vidushankalj/clcabs-management-system/blob/master/screenshots/Screenshot%202025-08-19%20143852.png)
